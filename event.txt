@@ -1,0 +1,5 @@
+EVT0001,Book Fair,2025-07-15,v002,Campus-wide book fair,80,001,Approved,approved
+EVT0002,Graduation Day,2025-08-01,v001,Final year celebration,200,001,Rejected,denied
+EVT0003,Sports Carnival,2025-06-18,v005,Outdoor games and challenges,150,001,Pending,Pending
+EVT0004,Tech Seminar,2025-06-28,v033,Talks on AI and IoT,100,001,Approved,approved
+EVT0005,Alumni Meet,2025-06-18,v007,Gathering for alumni and staff,120,001,Approved,approved

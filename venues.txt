@@ -1,0 +1,32 @@
+v001,school hall,available,N/A
+v002,library,unavailable,EVT0001 event book
+v003,canteen,available,N/A
+v005,basketball court,available,N/A
+v006,hall,unavailable,event booking
+v007,football court,unavailable,EVT0005 event book
+v008,classroom c-03-01,available,N/A
+v009,classroom c-03-02,available,N/A
+v010,classroom c-03-03,available,N/A
+v011,classroom a-03-01,available,N/A
+v012,classroom a-03-02,available,N/A
+v013,classroom a-03-03,available,N/A
+v014,classroom b-03-01,available,N/A
+v015,classroom b-03-02,available,N/A
+v016,classroom b-03-03,available,N/A
+v017,classroom d-03-01,available,N/A
+v018,classroom d-03-02,available,N/A
+v019,classroom d-03-03,available,N/A
+v020,volleyball court,available,N/A
+v021,classroom s-01-02,unavailable,maintainance
+v022,classroom s-01-03,unavailable,maintainance
+v023,classroom e-03-01,available,N/A
+v024,classroom e-03-02,available,N/A
+v025,classroom e-03-03,available,N/A
+v026,classroom a-04-01,available,N/A
+v027,classroom a-04-02,available,N/A
+v028,classroom a-04-03,available,N/A
+v029,elc classroom 3-01,unavailable,Teaching method
+v030,elc classroom 3-02,unavailable,Teaching method
+v031,classroom s-03-01,available,N/A
+v032,classroom s-02-01,available,N/A
+v033,auditorium,unavailable,EVT0004 event book
